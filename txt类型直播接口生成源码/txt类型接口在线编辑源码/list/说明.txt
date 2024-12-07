@@ -1,0 +1,8 @@
+说明
+把整个文件解压到服务器
+
+管理编辑地址：http://you域名/list/admin_login.php
+
+默认登录密码：123456
+
+接口地址：http://you域名/list/list/10001.txt

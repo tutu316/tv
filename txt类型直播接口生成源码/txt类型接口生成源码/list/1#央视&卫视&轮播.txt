@@ -1,0 +1,4 @@
+央视&卫视&轮播,#genre#
+cctv1,http://这里是直播源.m3u8
+cctv2,http://这里是直播源.m3u8
+cctv3,http://这里是直播源.m3u8
